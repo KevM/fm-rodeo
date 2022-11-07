@@ -29,7 +29,7 @@
 			<li><a href="/#cast">Cast</a>
                 <ul class="ml-2">
                     <li><a href="/kevm">Kevin</a></li>
-                    <li><a href="/buzzbuzz">Buzz</a></li>
+                    <li><a href="/buzzbuzzplays">Buzz</a></li>
                 </ul>
             </li>
         </ul>
