@@ -17,5 +17,10 @@
         <button class="btn bg-primary-500/30 btn-base ring-2 ring-primary-500 ring-inset text-surface-500">
             <a href="/kevm"><Avatar class="mr-4" src="/kevm/avatar.jpg" /> Kevin Miller</a>
         </button>
+
+        <button class="btn bg-primary-500/30 btn-base ring-2 ring-primary-500 ring-inset text-surface-500">
+			<a href="/buzzbuzzplays"><Avatar class="mr-4" src="/buzzbuzzplays/avatar.jpg" /> BuzzBuzzPlays</a>
+        </button>
+
     </section>
 </div>
