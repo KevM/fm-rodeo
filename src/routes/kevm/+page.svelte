@@ -9,9 +9,9 @@
     <p>Checkout what I make.</p>
 	<section class="flex space-x-4">
       <Avatar class="mr-4" src="/kevm/avatar.jpg" />
-      <a class="btn btn-filled-primary" href="https://github.com/kevm" target="_blank" rel="noreferrer">GitHub</a>
-      <a rel="me" class="btn btn-filled-accent" href="https://toot.community/@kevm/" target="_blank" rel="noreferrer">Mastodon</a>
-      <a class="btn btn-filled-accent" href="https://twitter.com/kevm/" target="_blank" rel="noreferrer">Twitter</a>
-      <a class="btn btn-filled-tertiary" href="https://youtube.com/KevinDangerMiller/" target="_blank" rel="noreferrer">YouTube</a>
+      <a rel="me" class="btn btn-filled-primary" href="https://github.com/kevm">GitHub</a>
+      <a rel="me" class="btn btn-filled-accent" href="https://toot.community/@kevm/">Mastodon</a>
+      <a rel="me" class="btn btn-filled-accent" href="https://twitter.com/kevm/">Twitter</a>
+      <a rel="me" class="btn btn-filled-tertiary" href="https://youtube.com/KevinDangerMiller/">YouTube</a>
     </section>
 </div>
