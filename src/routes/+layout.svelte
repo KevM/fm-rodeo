@@ -11,7 +11,8 @@
         <!-- Insert the App Bar: -->
         <AppBar>
             <svelte:fragment slot="lead">
-                <h1>Fm.Rodeo</h1>
+                <img src="/logo.jpg" alt="Dazzled Bull on a colorful background"/>
+                <h1 class="mx-4">FM.Rodeo</h1>
             </svelte:fragment>
             <svelte:fragment slot="trail">
                 <a class="btn btn-sm" href="https://github.com/kevm/fm-rodeo" target="_blank" rel="noreferrer">GitHub</a>
