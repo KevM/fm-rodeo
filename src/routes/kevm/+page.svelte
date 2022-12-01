@@ -4,6 +4,9 @@
 
 <svelte:head>
     <link href="https://toot.community/@kevm" rel="me" />
+    <link href="https://github.com/kevm" rel="me" />
+    <link href="https://youtube.com/KevinDangerMiller" rel="me" />
+    <link href="https://twitter.com/kevm" rel="me" />
 </svelte:head>
 
 <div class="container mx-auto p-8 space-y-8">
